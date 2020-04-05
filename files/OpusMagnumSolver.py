@@ -1,3 +1,4 @@
+""" branched version of the OpusMagnum Solver """
 import math
 
 class glyph_dispenser(object):
